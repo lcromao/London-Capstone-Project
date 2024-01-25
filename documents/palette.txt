@@ -1,0 +1,6 @@
+Valor 0.0 cor: #440154 
+Valor 0.2 cor: #482475
+Valor 0.4 cor: #33638D
+Valor 0.6 cor: #1F968B
+Valor 0.8 cor: #77C765
+Valor 1.0 cor: #FDE725
